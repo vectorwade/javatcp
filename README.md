@@ -3,7 +3,7 @@
 ## 📋 Descrição
 Sistema de chat em Java implementando comunicação TCP entre múltiplos clientes e um servidor. O projeto demonstra conceitos de sistemas distribuídos, programação concorrente e sockets.
 
-##  Arquitetura
+
 
 ### Servidor
 - Escuta na porta **5000**
