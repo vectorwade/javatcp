@@ -3,7 +3,9 @@
 ## Descrição
 Sistema de chat em Java implementando comunicação TCP entre múltiplos clientes e um servidor. O projeto demonstra conceitos de sistemas distribuídos, programação concorrente e sockets.
 
+## Autoria
 
+Victor dias Carvalho - Projeto para disciplina de Sistemas Distribuídos.
 
 ### Servidor
 - Escuta na porta **5000**
@@ -90,6 +92,4 @@ java cliente.Cliente
 
 Digite mensagens e veja as respostas do servidor. Digite `sair` para encerrar.
 
-## Autoria
 
-Victor Carvalho - Projeto para disciplina de Sistemas Distribuídos.
